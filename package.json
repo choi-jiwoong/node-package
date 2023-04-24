@@ -1,5 +1,5 @@
 {
-  "name": "@marketboro/test01",
+  "name": "@choi-jiwoong/test01",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "publishConfig": {
-    "@choi-jiwoong:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com"
   }
 }
